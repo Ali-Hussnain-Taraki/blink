@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blink</string>
+    <string name="google_ad_mob_app_id">ca-app-pub-2160012912260001~6665302468</string>
+    <string name="google_ad_mob_native_ad_id">ca-app-pub-2160012912260001/6807583327</string>
+    <string name="google_ad_mob_banner_ad_id">ca-app-pub-2160012912260001/5735008956</string>
+    <string name="google_ad_mob_banner_ad_id_blink">ca-app-pub-2160012912260001/4082483106</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
